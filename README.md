@@ -1,0 +1,2 @@
+# Genetic_Correlation_Causation_Metabolic_Psychiatric_Traits
+Scripts utilised for the analysis of genetic correlation and causation between circulating metabolites and psychiatric conditions
